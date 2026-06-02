@@ -4,7 +4,6 @@ export default function Home() {
   return (
     <main className="mx-auto flex min-h-screen w-full max-w-3xl flex-col items-center justify-center gap-4 p-8">
       <h1 className="text-3xl font-semibold text-gray-800"> Nicoli2 POC</h1>
-      <p className="text-gray-600">Next.js scaffold copied from Nicoli2 OS structure.</p>
       <div className="flex flex-col items-center justify-center gap-3">
         <Link
           href="/results"

@@ -177,8 +177,7 @@ const WellbeingWho5ScoreChart = () => {
   return (
     <section className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm md:p-6">
       <div className="mb-5 space-y-1">
-        <h1 className="text-lg font-semibold text-slate-900 md:text-xl">ウェルビーイング (WHO-5) スコア</h1>
-        <p className="text-sm text-slate-500">推移をグレードとスコアで確認できる時系列チャート</p>
+        <h1 className="text-lg font-semibold text-slate-900 md:text-lg">ウェルビーイング (WHO-5) スコア</h1>
       </div>
 
       <div className="h-[420px] w-full min-w-0">
