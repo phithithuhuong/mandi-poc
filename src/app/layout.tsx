@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "@/styles/_global.css";
 
 export const metadata: Metadata = {
-  title: "Mandi POC",
+  title: "Chart POC",
   description: "Next.js structure with Results screen",
 };
 
